@@ -70,3 +70,15 @@ h2 {
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
 }
+
+#full {
+    border-left: 7px solid tomato;
+}
+
+#front {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+}
